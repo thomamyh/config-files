@@ -1,0 +1,8 @@
+alias htbs='sudo openvpn /home/$USER/openvpn/htbs.ovpn'
+alias htba='sudo openvpn /home/$USER/openvpn/htba.ovpn'
+alias htb='sudo openvpn /home/$USER/openvpn/htb.ovpn'
+alias thm='sudo openvpn /home/$USER/openvpn/thm.ovpn'
+alias rot13="tr 'A-Za-z' 'N-ZA-Mn-za-m'"
+alias ..="cd .."
+alias ...="cd ../.."
+alias c="clear"
